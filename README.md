@@ -11,6 +11,6 @@ easy to digest, and is prime learning material for those new to the script.
 Unfortunately, I was unable to package the game properly, and the game must be run via python from one's computer, and pygame 
 must also be downloaded.
 
-Credits: Thanks to Manfred Kelin for the font used in the game.
+Credits: Thanks to Manfred Klein for the font used in the game.
 
 MADE BY AKSHAY SUBRAMANIAM
