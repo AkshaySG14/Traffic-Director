@@ -1,5 +1,4 @@
 # Traffic-Director
-Made by Akshay Subramaniam
 
 Traffic director is a very simplistic game made in python. The goal of traffic director is to direct traffic on three intersections,
 and ensure that cars get to their destination while not colliding and while not staying on the road too long. The game is operated
@@ -11,3 +10,7 @@ easy to digest, and is prime learning material for those new to the script.
 
 Unfortunately, I was unable to package the game properly, and the game must be run via python from one's computer, and pygame 
 must also be downloaded.
+
+Credits: Thanks to Manfred Kelin for the font used in the game.
+
+MADE BY AKSHAY SUBRAMANIAM
